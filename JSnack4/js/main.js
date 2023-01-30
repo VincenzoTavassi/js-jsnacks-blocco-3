@@ -23,4 +23,4 @@ lastNumber = numeroUtente;
 typedNumbers.push(lastNumber);
 
 // STAMPO RISULTATO
-risultatoEl.innerHTML = `I numeri inseriti sono <strong>${typedNumbers}</strong> e l'ultimo numero era ${lastNumber}`
+risultatoEl.innerHTML = `I numeri inseriti sono <strong>${typedNumbers}</strong> e l'ultimo numero era ${lastNumber}`;
